@@ -20,7 +20,7 @@ File Sniper is a desktop application designed to identify and remove duplicate f
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/file-sniper.git
+    git clone https://github.com/WojakWanderer/file-sniper.git
     cd file-sniper
     ```
 
